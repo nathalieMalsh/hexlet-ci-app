@@ -1,4 +1,4 @@
-[![Actions Status](https://github.com/nathalieMalsh/hexlet-ci-app/blob/main/.github/workflows/start.yml/badge.svg)](https://github.com/nathalieMalsh/hexlet-ci-app/actions)
+[![Actions Status](https://github.com/nathalieMalsh/hexlet-ci-app/actions/workflows/start.yml/badge.svg)](https://github.com/nathalieMalsh/hexlet-ci-app/actions)
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
