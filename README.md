@@ -1,3 +1,4 @@
+[![Actions Status](https://github.com/nathalieMalsh/hexlet-ci-app/blob/main/.github/workflows/start.yml/badge.svg)](https://github.com/nathalieMalsh/hexlet-ci-app/actions)
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
@@ -35,4 +36,3 @@ This repository is created and maintained by the team and the community of Hexle
 
 See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
 
-[![Actions Status](https://github.com/nathalieMalsh/hexlet-ci-app/blob/main/.github/workflows/start.yml/badge.svg)](https://github.com/nathalieMalsh/hexlet-ci-app/actions)
