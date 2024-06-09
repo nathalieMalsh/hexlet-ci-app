@@ -1,7 +1,5 @@
 name: setup-test-linter
-
 on: push
-
 jobs:
   build:
     runs-on: ubuntu-latest
