@@ -9,4 +9,7 @@ jobs:
       - run: make setup
       - run: make test
       - run: make lint
-      
+      - name: Snyk 
+        uses: snyk/actions/node@master
+        env:
+          SNYK_TOKEN: 3fe04f49-3ae1-47a4-9aa4-f4e674782637
