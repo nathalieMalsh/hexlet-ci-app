@@ -6,10 +6,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
+        with:
+          node-version: 'latest'
+          cache: 'npm'
       - run: make setup
       - run: make test
       - run: make lint
-      - name: Snyk 
+      
+      - name: run snyk
         uses: snyk/actions/node@master
         env:
           SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
